@@ -1,4 +1,4 @@
-// node --test test/ — the shelf data renders 20 cards, 27 photos, 8 spore slots; a done spore print shows colour + photo
+// node --test test/ — the shelf data renders 20 cards, 26 photos, 8 spore slots; a done spore print shows colour + photo
 const { test } = require('node:test');
 const assert = require('node:assert/strict');
 const fs = require('fs');
@@ -23,18 +23,18 @@ test('every shelf in the index has a data file, and every photo it names exists 
   }
 });
 
-test('shelf 1: 20 cards, 27 photos, 8 pending spore slots, safety flags rendered', () => {
+test('shelf 1: 20 cards, 26 photos, 8 pending spore slots, safety flags rendered', () => {
   const shelf = JSON.parse(fs.readFileSync(path.join(ROOT, 'shelves/karaburun-2026-11-18.json'), 'utf8'));
   const html = lib.gridHtml(shelf, 'shelves/karaburun-2026-11-18');
   assert.equal(shelf.finds.length, 20);
-  assert.equal(lib.photoCount(shelf), 27);
+  assert.equal(lib.photoCount(shelf), 26);
   assert.equal((html.match(/<article /g) || []).length, 20);
-  assert.equal((html.match(/<img /g) || []).length, 27);
+  assert.equal((html.match(/<img /g) || []).length, 26);
   assert.equal((html.match(/Spore print: pending/g) || []).length, 8);
   assert.equal((html.match(/class="chip deadly"/g) || []).length, 2);
   assert.ok(html.includes('data-src="shelves/karaburun-2026-11-18/img/kb-01.jpg"'));
   assert.ok(html.includes('src="shelves/karaburun-2026-11-18/thumb/kb-01.jpg"'));
-  assert.match(lib.shelflineHtml(shelf), /<b>20<\/b> finds · <b>27<\/b> photos/);
+  assert.match(lib.shelflineHtml(shelf), /<b>20<\/b> finds · <b>26<\/b> photos/);
   assert.ok(lib.shelflineHtml(shelf).includes('Karaburun, Arnavutköy, İstanbul'));
 });
 
