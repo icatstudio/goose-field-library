@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Goose Field Library</title>
+<meta name="description" content="Field finds, photo IDs and the chemistry behind them.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Public+Sans:wght@400;600;700&family=JetBrains+Mono:wght@400;600&display=swap">
+<link rel="stylesheet" href="library.css">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow" id="eyebrow">Goose Field Library</div>
+    <h1 id="title">Goose Field Library</h1>
+    <p class="lede" id="lede">Field finds, photo IDs and the chemistry behind them.</p>
+    <div class="shelfline" id="shelfline"></div>
+    <nav class="shelves" id="shelves" aria-label="Shelves" hidden></nav>
+  </header>
+
+  <div class="controls" role="group" aria-label="Filter finds">
+    <span>Drawer</span>
+    <button class="tab" data-f="all" aria-pressed="true">All</button>
+    <button class="tab" data-f="plant" aria-pressed="false">Plants</button>
+    <button class="tab" data-f="fungus" aria-pressed="false">Fungi</button>
+    <button class="tab" data-f="other" aria-pressed="false">Scene &amp; critters</button>
+  </div>
+  <div class="legend">
+    <span class="chip deadly">Deadly look-alike</span>
+    <span class="chip poison">Poisonous</span>
+    <span class="chip mild">Harmless or useful</span>
+    <span class="chip unknown">Unsettled</span>
+  </div>
+
+  <main class="grid" id="grid"><p class="empty">Loading the shelf…</p></main>
+
+  <footer>
+    <div><b>How to read a card.</b> The ID line gives Goose's best guess and a confidence. "Check" is the field test that would settle it. "Lab" is what our small chemistry bench could do with it.</div>
+    <div>Mushroom IDs from photos are guesses. Several look-alikes here carry amatoxin or muscarine. Never eat a wild mushroom on a photo ID.</div>
+  </footer>
+</div>
+
+<dialog id="lb"><img id="lbimg" alt=""><p id="lbcap"></p></dialog>
+
+<script src="library.js"></script>
+</body>
+</html>
