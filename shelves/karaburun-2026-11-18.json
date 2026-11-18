@@ -1,0 +1,405 @@
+{
+  "id": "karaburun-2026-11-18",
+  "shelf": 1,
+  "title": "Karaburun forest",
+  "date": "18 Nov 2026",
+  "time": "13:37–14:17",
+  "place": "Karaburun, Arnavutköy, İstanbul",
+  "leg": "K. Pektaş",
+  "det": "Goose (photo)",
+  "description": "Field finds, photo IDs and the chemistry behind them. Shelf 1: Karaburun forest, Istanbul, 18 Nov 2026.",
+  "lede": "A walk in the oak, pine and maquis behind Istanbul's Black Sea coast after the November rains. Every find is a photo ID by Goose from Korkut's phone shots. Nothing was eaten, and none of these IDs are good enough to eat by. Spore prints are running, and the empty circles on the mushroom cards fill in when they do.",
+  "finds": [
+    {
+      "no": "KB-01",
+      "kind": "other",
+      "time": "13:37",
+      "photos": [
+        "kb-01"
+      ],
+      "name": "Forest track, OGM land",
+      "latin": "",
+      "tr": "",
+      "flag": "mild",
+      "flagText": "Site",
+      "conf": "",
+      "id": "Gravel forest road through mixed maquis: evergreen shrubs left, oak and pine right.",
+      "chem": "",
+      "lab": "",
+      "check": ""
+    },
+    {
+      "no": "KB-02",
+      "kind": "plant",
+      "time": "13:39",
+      "photos": [
+        "kb-02"
+      ],
+      "name": "Strawberry tree, young",
+      "latin": "Arbutus unedo",
+      "tr": "kocayemiş",
+      "flag": "mild",
+      "flagText": "Useful",
+      "conf": "High",
+      "id": "Glossy leaves, red leaf stalks, bud clusters at the tips, under a pine plantation. Ivy on the trunks and holly (çoban püskülü) nearby.",
+      "chem": "Leaves carry arbutin (a hydroquinone glucoside) and tannins.",
+      "lab": "Leaf tannin extract for the set-time test.",
+      "check": "Finely toothed leaf edge."
+    },
+    {
+      "no": "KB-03",
+      "kind": "plant",
+      "time": "13:40",
+      "photos": [
+        "kb-03"
+      ],
+      "name": "Butcher's broom",
+      "latin": "Ruscus aculeatus",
+      "tr": "tavşan memesi",
+      "flag": "mild",
+      "flagText": "Useful",
+      "conf": "High",
+      "id": "The 'leaves' are flattened stems (cladodes) with a spine at the tip. Flowers and red berries grow out of their middle in winter.",
+      "chem": "Rhizome rich in ruscogenins, steroidal saponins used in vein creams.",
+      "lab": "Saponin foam test beside conker, for cement air-entrainment. Buy dried root at the aktar; wild collection is regulated.",
+      "check": ""
+    },
+    {
+      "no": "KB-04",
+      "kind": "plant",
+      "time": "13:41",
+      "photos": [
+        "kb-04"
+      ],
+      "name": "Strawberry tree seedlings",
+      "latin": "Arbutus unedo",
+      "tr": "kocayemiş",
+      "flag": "mild",
+      "flagText": "Useful",
+      "conf": "High",
+      "id": "A patch of young plants: toothed edges, red stalks, leaves spread along the twig.",
+      "chem": "Arbutin, tannins.",
+      "lab": "",
+      "check": "Not to be mixed up with Rhododendron ponticum (deli bal plant, poisonous): smooth edges, leaves bunched at the tip around one fat bud."
+    },
+    {
+      "no": "KB-05",
+      "kind": "plant",
+      "time": "13:42",
+      "photos": [
+        "kb-05"
+      ],
+      "name": "Strawberry tree, fruit and flower",
+      "latin": "Arbutus unedo",
+      "tr": "kocayemiş",
+      "flag": "mild",
+      "flagText": "Edible fruit",
+      "conf": "High",
+      "id": "Ripe red fruit and white bell flowers on one branch. The fruit takes a full year, so this year's flowers meet last year's fruit.",
+      "chem": "Sugars that ferment on the branch, hence the 'drunk on kocayemiş' stories. 'Unedo' = 'I eat only one'.",
+      "lab": "Small ferment and test distillation, medronho-style.",
+      "check": "Eat only the deep red, soft ones, a handful at most."
+    },
+    {
+      "no": "KB-06",
+      "kind": "plant",
+      "time": "13:43",
+      "photos": [
+        "kb-06"
+      ],
+      "name": "Blackberry and likely honeysuckle",
+      "latin": "Rubus sp. · Lonicera sp.?",
+      "tr": "böğürtlen · hanımeli",
+      "flag": "unknown",
+      "flagText": "Partly unsettled",
+      "conf": "High / Low",
+      "id": "Toothed leaflets in groups of 3–5 on a thin cane are blackberry. Long oval leaves on red twining stems, with fungal leaf spot, look like wild honeysuckle.",
+      "chem": "Blackberry leaf: tannins and ellagic acid.",
+      "lab": "Ellagic acid alongside the walnut extraction.",
+      "check": "Honeysuckle: stem twining or a berry would settle it. Don't eat the berries."
+    },
+    {
+      "no": "KB-07",
+      "kind": "plant",
+      "time": "13:44",
+      "photos": [
+        "kb-07"
+      ],
+      "name": "Sessile oak",
+      "latin": "Quercus petraea",
+      "tr": "sapsız meşe",
+      "flag": "mild",
+      "flagText": "Useful",
+      "conf": "Medium",
+      "id": "Glossy, leathery leaves with shallow wavy lobes. The classic Istanbul forest oak.",
+      "chem": "Ellagitannins in bark and leaves. Oak galls (mazı) hold roughly 50–70 % tannin.",
+      "lab": "Iron gall ink: crushed galls + water + iron(II) sulfate (karaboya). Tannin also feeds the cement set-time test.",
+      "check": "Look on the twigs for galls."
+    },
+    {
+      "no": "KB-08",
+      "kind": "plant",
+      "time": "13:45",
+      "photos": [
+        "kb-08"
+      ],
+      "name": "Tree heath",
+      "latin": "Erica arborea",
+      "tr": "ağaç fundası",
+      "flag": "mild",
+      "flagText": "Useful",
+      "conf": "Medium",
+      "id": "Fine needles in whorls of 3–4, with next spring's flower buds as tiny balls. Same family as strawberry tree and rhododendron.",
+      "chem": "Arbutin. The root burl is briar, the classic pipe wood. Bees make dark, bitter funda honey from it.",
+      "lab": "",
+      "check": "Soft and scentless = heath. Prickly and smells of gin = juniper (ardıç)."
+    },
+    {
+      "no": "KB-09",
+      "kind": "plant",
+      "time": "13:48",
+      "photos": [
+        "kb-09"
+      ],
+      "name": "Maritime pine with oak and maquis",
+      "latin": "Pinus pinaster?",
+      "tr": "sahil çamı",
+      "flag": "mild",
+      "flagText": "Useful",
+      "conf": "Medium",
+      "id": "Reddish, plated pine bark in front, oak turning copper on the right, heath underneath.",
+      "chem": "Resin = turpentine (mostly α-pinene, the forest smell) + rosin (colophony).",
+      "lab": "Steam-distill a lump of resin: turpentine floats off, rosin stays behind. Rosin is solder flux and violin-bow rosin.",
+      "check": "Scrape clean amber blobs from old wounds only."
+    },
+    {
+      "no": "KB-10",
+      "kind": "fungus",
+      "time": "13:51",
+      "photos": [
+        "kb-10",
+        "kb-11"
+      ],
+      "name": "Butter cap (or Gymnopus)",
+      "latin": "Rhodocollybia butyracea?",
+      "tr": "",
+      "flag": "unknown",
+      "flagText": "Not food",
+      "conf": "Medium",
+      "id": "Tan, smooth cap with a paler rim. Pale cream gills, a long tough stem, white fuzz at a swollen base, in oak and pine litter.",
+      "chem": "",
+      "lab": "",
+      "check": "A greasy, buttery feel on the cap. Spore print should come out white.",
+      "spore": {
+        "status": "pending"
+      }
+    },
+    {
+      "no": "KB-11",
+      "kind": "fungus",
+      "time": "13:54",
+      "photos": [
+        "kb-12"
+      ],
+      "name": "Turkey tail",
+      "latin": "Trametes versicolor",
+      "tr": "hindi kuyruğu mantarı",
+      "flag": "mild",
+      "flagText": "Useful",
+      "conf": "Medium",
+      "id": "Thin velvety brackets with grey-purple bands on a dead stick.",
+      "chem": "Beta-glucan polysaccharides (PSK, PSP), among the most studied mushroom compounds for the immune system.",
+      "lab": "Simmer 1 h in water, strain, add 2–3× volume of vodka: the polysaccharides crash out as a white cottony cloud.",
+      "check": "Tiny pores underneath = real. Smooth = Stereum look-alike."
+    },
+    {
+      "no": "KB-12",
+      "kind": "fungus",
+      "time": "13:55",
+      "photos": [
+        "kb-13"
+      ],
+      "name": "Hairy curtain crust",
+      "latin": "Stereum hirsutum",
+      "tr": "",
+      "flag": "unknown",
+      "flagText": "No use",
+      "conf": "Medium",
+      "id": "Warm orange-tan brackets that start as a flat crust over the twig. The turkey tail look-alike.",
+      "chem": "",
+      "lab": "",
+      "check": "Smooth orange-yellow underside with no pores."
+    },
+    {
+      "no": "KB-13",
+      "kind": "other",
+      "time": "13:57",
+      "photos": [
+        "kb-14",
+        "kb-15"
+      ],
+      "name": "White pearls on moss",
+      "latin": "",
+      "tr": "",
+      "flag": "unknown",
+      "flagText": "Unsettled",
+      "conf": "Low",
+      "id": "Small white balls on a cushion of feather moss, with a spider web across the gap. Some look like tiny land snails, some like eggs or puffball buttons.",
+      "chem": "",
+      "lab": "",
+      "check": "Roll one under a fingernail: hard and hollow = shell, soft and wobbly = slug or snail egg, firm and solid white inside = puffball."
+    },
+    {
+      "no": "KB-14",
+      "kind": "fungus",
+      "time": "13:58",
+      "photos": [
+        "kb-16"
+      ],
+      "name": "Fibrecap or poison pie",
+      "latin": "Inocybe / Hebeloma",
+      "tr": "",
+      "flag": "poison",
+      "flagText": "Poisonous group",
+      "conf": "Low",
+      "id": "Small cream-to-pale-yellow cap with a wavy rim; the gills at the edge look brownish.",
+      "chem": "Inocybe carries muscarine: sweating, drooling, a crashing heart rate.",
+      "lab": "",
+      "check": "Spore print brown in both groups. Photo only.",
+      "spore": {
+        "status": "pending"
+      }
+    },
+    {
+      "no": "KB-15",
+      "kind": "fungus",
+      "time": "13:59",
+      "photos": [
+        "kb-17",
+        "kb-18",
+        "kb-19"
+      ],
+      "name": "Pale veil mushroom, probable poison pie",
+      "latin": "Hebeloma sp.?",
+      "tr": "",
+      "flag": "deadly",
+      "flagText": "Deadly look-alike",
+      "conf": "~70 %",
+      "id": "Creamy cap with a faint olive tone, crowded cream gills notched at the stem, cobweb veil threads, a fibrous stem tapering to a point. No bulb, no cup, no skirt.",
+      "chem": "Hebeloma: severe stomach poisoning. The pattern (white gills + veil) is also the pale death cap's, which is why it's flagged.",
+      "lab": "",
+      "check": "Raw-radish smell = Hebeloma. Spore print: brown = Hebeloma; white = treat as deadly.",
+      "spore": {
+        "status": "pending"
+      }
+    },
+    {
+      "no": "KB-16",
+      "kind": "fungus",
+      "time": "14:02",
+      "photos": [
+        "kb-20",
+        "kb-21"
+      ],
+      "name": "Bloody brittlegill",
+      "latin": "Russula sanguinaria",
+      "tr": "",
+      "flag": "poison",
+      "flagText": "Not food",
+      "conf": "Medium",
+      "id": "Pink-red caps, darker red in the middle, a pink-flushed stem, cream gills. Under pine.",
+      "chem": "Russula flesh is built from round cells (sphaerocysts), not long threads.",
+      "lab": "",
+      "check": "Snap test done in the field: the stem breaks clean like chalk.",
+      "spore": {
+        "status": "pending"
+      }
+    },
+    {
+      "no": "KB-17",
+      "kind": "fungus",
+      "time": "14:05",
+      "photos": [
+        "kb-22"
+      ],
+      "name": "Butter cap or Clitocybe",
+      "latin": "Rhodocollybia / Clitocybe",
+      "tr": "",
+      "flag": "unknown",
+      "flagText": "Not food",
+      "conf": "Low",
+      "id": "Pale buff cap with a darker bump in the middle; gill lines show through the thin, wavy rim. Young ivy around it.",
+      "chem": "",
+      "lab": "",
+      "check": "Greasy cap = butter cap.",
+      "spore": {
+        "status": "pending"
+      }
+    },
+    {
+      "no": "KB-18",
+      "kind": "fungus",
+      "time": "14:06",
+      "photos": [
+        "kb-23"
+      ],
+      "name": "Grey troop",
+      "latin": "Tricholoma terreum group / Clitocybe nebularis",
+      "tr": "",
+      "flag": "poison",
+      "flagText": "Not food",
+      "conf": "Low",
+      "id": "A troop of grey-brown caps with dark streaks radiating from the centre; old ragged ones on the left.",
+      "chem": "Grey knights are under suspicion for muscle-damage toxins, and have a tiger-patterned cousin that is properly poisonous.",
+      "lab": "",
+      "check": "Gills notched at the stem = Tricholoma; gills running down the stem = Clitocybe. Look for a fairy-ring arc.",
+      "spore": {
+        "status": "pending"
+      }
+    },
+    {
+      "no": "KB-19",
+      "kind": "fungus",
+      "time": "14:16",
+      "photos": [
+        "kb-24",
+        "kb-25",
+        "kb-26"
+      ],
+      "name": "Shaggy parasol",
+      "latin": "Chlorophyllum rhacodes / olivieri",
+      "tr": "",
+      "flag": "deadly",
+      "flagText": "Deadly look-alike",
+      "conf": "Medium",
+      "id": "Brown central button with shaggy scales, a thick double-edged ring on a smooth stem, a swollen bulb at the base. Gills spotted brown.",
+      "chem": "Bruising turns the flesh saffron-orange, then red-brown. Small Lepiotas (under 10 cm) look alike and some carry amatoxin.",
+      "lab": "",
+      "check": "Cut the stem and watch it turn orange. Slide the ring up and down.",
+      "spore": {
+        "status": "pending"
+      }
+    },
+    {
+      "no": "KB-20",
+      "kind": "fungus",
+      "time": "14:17",
+      "photos": [
+        "kb-27"
+      ],
+      "name": "Milkcap or deceiver",
+      "latin": "Lactarius sp. / Laccaria laccata",
+      "tr": "",
+      "flag": "unknown",
+      "flagText": "Not food",
+      "conf": "Low",
+      "id": "Small orange-brown caps with a darker dip in the centre, slim orange stems.",
+      "chem": "Milkcaps bleed a latex that can change colour in the air.",
+      "lab": "",
+      "check": "Nick a gill: milk = Lactarius (watch the drop colour); no milk + thick pinkish gills = Laccaria.",
+      "spore": {
+        "status": "pending"
+      }
+    }
+  ]
+}
