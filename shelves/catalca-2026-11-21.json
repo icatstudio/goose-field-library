@@ -1,0 +1,649 @@
+{
+ "id": "catalca-2026-11-21",
+ "shelf": 2,
+ "title": "Çatalca pine forest",
+ "date": "21 Nov 2026",
+ "time": "13:40–15:00",
+ "place": "Çatalca, İstanbul",
+ "leg": "K. Pektaş",
+ "det": "Goose (photo)",
+ "description": "Field finds, photo IDs and the chemistry behind them. Shelf 2: Çatalca pine forest, 21 Nov 2026.",
+ "lede": "A scouting walk in a pine forest at peak season, a few days after the November rains. Local pickers with bags and forked sticks had been through first, so the edible ones were mostly gone and what stood was the poisonous crowd: fibrecaps by the hundred, a pink dapperling, a white Amanita. Photos only, nothing picked, nothing eaten. Spore prints follow on a lab day.",
+ "finds": [
+  {
+   "no": "S2-01",
+   "kind": "fungus",
+   "time": "13:40",
+   "photos": [
+    "s2-01",
+    "s2-02",
+    "s2-18"
+   ],
+   "name": "Knight or roll-rim",
+   "latin": "Tricholoma imbricatum? · Paxillus involutus?",
+   "tr": "",
+   "flag": "unknown",
+   "flagText": "Not food",
+   "conf": "Low",
+   "id": "Tan felty cap with fine scales; cream gills with rusty-brown stains; the third one has a rolled-under edge. Under pine.",
+   "chem": "Paxillus: involutin antigen, a cumulative immune reaction that can break down red blood cells, even after years of safe eating.",
+   "lab": "Second sample next to the scaly knight for the brown-staining test.",
+   "check": "Press the gills: fast dark brown and they slide off the cap like a skin = Paxillus. Scratch a gill: milk = Lactarius. Mealy smell = Tricholoma.",
+   "spore": {
+    "status": "pending"
+   }
+  },
+  {
+   "no": "S2-02",
+   "kind": "fungus",
+   "time": "13:42",
+   "photos": [
+    "s2-03"
+   ],
+   "name": "Slippery jack group",
+   "latin": "Suillus collinitus / S. granulatus?",
+   "tr": "",
+   "flag": "mild",
+   "flagText": "Edible group",
+   "conf": "~60 %",
+   "id": "A cluster of smooth, chestnut-brown, slightly greasy caps at the foot of a pine. Underside not seen yet.",
+   "chem": "",
+   "lab": "Mediterranean pine partner; spore source for the Kanlıca plan if confirmed.",
+   "check": "Flip one: yellow sponge pores and no gills = Suillus. Sticky cap when wet fits.",
+   "spore": {
+    "status": "pending"
+   }
+  },
+  {
+   "no": "S2-03",
+   "kind": "other",
+   "time": "13:43",
+   "photos": [
+    "s2-04"
+   ],
+   "name": "Lichen on rock",
+   "latin": "crustose / foliose lichens",
+   "tr": "liken",
+   "flag": "mild",
+   "flagText": "Site",
+   "conf": "High",
+   "id": "Pale grey-green crusty patches on a boulder: a fungus and an alga living as one body.",
+   "chem": "Lichen acids (usnic and others) slowly dissolve rock: the first soil-makers.",
+   "lab": "Algae as a building partner: a note for Deniz Tümerdem's algae-material work.",
+   "check": "Lichens die back where the air is dirty: a clean-air sign."
+  },
+  {
+   "no": "S2-04",
+   "kind": "fungus",
+   "time": "13:44",
+   "photos": [
+    "s2-05",
+    "s2-22"
+   ],
+   "name": "Lilac buttons",
+   "latin": "Inocybe geophylla var. lilacina? · Laccaria amethystina? · Mycena pura?",
+   "tr": "",
+   "flag": "poison",
+   "flagText": "Not food",
+   "conf": "Low",
+   "id": "Small round pinkish-lilac buttons in pine litter; the second photo shows white mycelium spreading through the needles next to them.",
+   "chem": "Lilac fibrecap and lilac bonnet both carry muscarine.",
+   "lab": "The mycelium mat in photo 2 is the fungus body itself; worth a close-up.",
+   "check": "Smell: radish = Mycena pura. Gills turning clay-brown = Inocybe. Thick, widely spaced violet gills = Laccaria.",
+   "spore": {
+    "status": "pending"
+   }
+  },
+  {
+   "no": "S2-05",
+   "kind": "fungus",
+   "time": "13:45",
+   "photos": [
+    "s2-06",
+    "s2-07"
+   ],
+   "name": "Brown fibrecap",
+   "latin": "Inocybe sp.",
+   "tr": "",
+   "flag": "poison",
+   "flagText": "Poisonous group",
+   "conf": "Medium",
+   "id": "Small brown cap split into radial fibres like straw; tan fibrous stem; pine litter.",
+   "chem": "Most Inocybe: muscarine (sweating, tears, drooling, slow heart). A few rare species carry psilocybin and bruise blue-green.",
+   "lab": "Field test for bluing; spore print brown (Inocybe) vs purple-black (Psilocybe).",
+   "check": "Press the stem and wait 30 min for any blue-green.",
+   "spore": {
+    "status": "pending"
+   }
+  },
+  {
+   "no": "S2-06",
+   "kind": "fungus",
+   "time": "13:47",
+   "photos": [
+    "s2-08",
+    "s2-16",
+    "s2-26"
+   ],
+   "name": "Common puffball, three ages",
+   "latin": "Lycoperdon perlatum",
+   "tr": "",
+   "flag": "mild",
+   "flagText": "Edible when young",
+   "conf": "High",
+   "id": "Young: white, spiny, pear-shaped. Older: spines gone, a honeycomb net left. Ripe: a hole on top that puffs spores when raindrops hit.",
+   "chem": "",
+   "lab": "Natural spore slurry: one squeeze of a ripe one = billions of spores.",
+   "check": "Cut top to bottom. Pure white = puffball. Yellow-olive = too old. Purple-black = earthball (poisonous). An outline of a cap and gills inside = Amanita egg (deadly)."
+  },
+  {
+   "no": "S2-07",
+   "kind": "fungus",
+   "time": "13:47",
+   "photos": [
+    "s2-09",
+    "s2-10",
+    "s2-32"
+   ],
+   "name": "White fibrecap",
+   "latin": "Inocybe geophylla",
+   "tr": "",
+   "flag": "poison",
+   "flagText": "Poisonous group",
+   "conf": "Medium",
+   "id": "Small silky white caps with a buff bump in the middle, in troops in pine litter. The first photo was read as a cavalier at first.",
+   "chem": "Muscarine.",
+   "lab": "",
+   "check": "Spore print: brown = Inocybe.",
+   "spore": {
+    "status": "pending"
+   }
+  },
+  {
+   "no": "S2-08",
+   "kind": "fungus",
+   "time": "13:49",
+   "photos": [
+    "s2-11"
+   ],
+   "name": "Cream domes with dark gills",
+   "latin": "Inocybe? · Hypholoma? · Psathyrella?",
+   "tr": "",
+   "flag": "unknown",
+   "flagText": "Not food",
+   "conf": "Low",
+   "id": "A troop of small cream to pale-yellow domes; the flipped one shows grey-brown gills, so likely dark-spored.",
+   "chem": "",
+   "lab": "Spore colour first: dark spores narrow it to a handful of genera.",
+   "check": "Press the stems: blue-green after 30–60 min = interesting. Spore print on white and black paper.",
+   "spore": {
+    "status": "pending"
+   }
+  },
+  {
+   "no": "S2-09",
+   "kind": "plant",
+   "time": "13:52",
+   "photos": [
+    "s2-12"
+   ],
+   "name": "Heather",
+   "latin": "Erica manipuliflora",
+   "tr": "püren",
+   "flag": "mild",
+   "flagText": "Useful",
+   "conf": "Medium",
+   "id": "Tiny needle leaves in whorls, small pink flowers fading to rust; autumn-flowering.",
+   "chem": "Source of püren balı, the dark, slightly bitter heather honey.",
+   "lab": "Ericoid mycorrhiza: its own root fungi let it live on poor acidic soil.",
+   "check": ""
+  },
+  {
+   "no": "S2-10",
+   "kind": "fungus",
+   "time": "13:52",
+   "photos": [
+    "s2-13",
+    "s2-15"
+   ],
+   "name": "Bell-cap in the grass",
+   "latin": "Panaeolina foenisecii? · Panaeolus cinctulus?",
+   "tr": "",
+   "flag": "unknown",
+   "flagText": "Not food",
+   "conf": "Low",
+   "id": "Smooth caramel bell cap, dark grey-brown to blackish gills (not rusty), long brittle reddish-brown stem, no ring. Growing from grassy soil under the pine-needle mat.",
+   "chem": "P. cinctulus contains psilocybin; P. foenisecii has trace amounts at most.",
+   "lab": "Spore print decides the genus.",
+   "check": "Spore print: jet black = Panaeolus (cinctulus in play), dark brown = P. foenisecii, purple-brown = Psilocybe. Rusty = Galerina (deadly look-alike).",
+   "spore": {
+    "status": "pending"
+   }
+  },
+  {
+   "no": "S2-11",
+   "kind": "fungus",
+   "time": "13:57",
+   "photos": [
+    "s2-17"
+   ],
+   "name": "Split fibrecap troop",
+   "latin": "Inocybe rimosa (Pseudosperma) / I. cookei",
+   "tr": "",
+   "flag": "poison",
+   "flagText": "Poisonous group",
+   "conf": "Medium",
+   "id": "A big troop of straw-yellow, fibrous caps with splitting edges and a central bump.",
+   "chem": "Muscarine; one of the most common causes of mushroom poisoning in Europe.",
+   "lab": "",
+   "check": "",
+   "spore": {
+    "status": "pending"
+   }
+  },
+  {
+   "no": "S2-12",
+   "kind": "other",
+   "time": "14:02",
+   "photos": [
+    "s2-19"
+   ],
+   "name": "Deeper in: pine and cedar",
+   "latin": "",
+   "tr": "",
+   "flag": "mild",
+   "flagText": "Site",
+   "conf": "",
+   "id": "Pines mixed with cedar or fir, sunny grassy clearings, heather at the feet. A new tree mix means new fungal partners.",
+   "chem": "",
+   "lab": "",
+   "check": ""
+  },
+  {
+   "no": "S2-13",
+   "kind": "fungus",
+   "time": "14:03",
+   "photos": [
+    "s2-20",
+    "s2-21"
+   ],
+   "name": "Olive-brown stout one",
+   "latin": "Hygrophorus hypothejus? · Russula? · Paxillus?",
+   "tr": "",
+   "flag": "unknown",
+   "flagText": "Not food",
+   "conf": "Low",
+   "id": "Chunky build, olive-brown finely wrinkled caps, thick pale stem with tiny dots, edge rolled under; pale cream gills, no cobweb veil.",
+   "chem": "",
+   "lab": "",
+   "check": "Snap the stem: chalky break = Russula. Rub a gill: waxy = Hygrophorus. Press the gills: brown = Paxillus.",
+   "spore": {
+    "status": "pending"
+   }
+  },
+  {
+   "no": "S2-14",
+   "kind": "fungus",
+   "time": "14:07",
+   "photos": [
+    "s2-23"
+   ],
+   "name": "Cavalier",
+   "latin": "Melanoleuca melaleuca",
+   "tr": "",
+   "flag": "unknown",
+   "flagText": "Not food",
+   "conf": "Medium",
+   "id": "Flat grey-brown cap with a darker centre, crowded pale cream gills, slender dark stem, no ring. The bluish spot is a wet centre, not bluing.",
+   "chem": "",
+   "lab": "",
+   "check": "",
+   "spore": {
+    "status": "pending"
+   }
+  },
+  {
+   "no": "S2-15",
+   "kind": "fungus",
+   "time": "14:08",
+   "photos": [
+    "s2-24"
+   ],
+   "name": "Clouded agaric",
+   "latin": "Clitocybe nebularis?",
+   "tr": "",
+   "flag": "poison",
+   "flagText": "Not food",
+   "conf": "Medium",
+   "id": "Big wavy grey-brown caps in a group in conifer litter; a late-autumn classic that often grows in rings.",
+   "chem": "Upsets many stomachs; old books call it edible.",
+   "lab": "",
+   "check": "Strong sweetish-rancid smell. Look-alike: Entoloma sinuatum (pinkish gills when old).",
+   "spore": {
+    "status": "pending"
+   }
+  },
+  {
+   "no": "S2-16",
+   "kind": "fungus",
+   "time": "14:08",
+   "photos": [
+    "s2-25"
+   ],
+   "name": "Pink scaly dapperling",
+   "latin": "Lepiota brunneoincarnata / L. subincarnata?",
+   "tr": "",
+   "flag": "deadly",
+   "flagText": "Deadly look-alike",
+   "conf": "Medium",
+   "id": "Small pinkish cap broken into reddish-brown scales with a darker centre, next to a woolly rosette.",
+   "chem": "Amatoxins, the death-cap toxin: liver failure, symptoms only 6–12 h after eating.",
+   "lab": "",
+   "check": "Left in the ground. Touching is harmless; eating is not."
+  },
+  {
+   "no": "S2-17",
+   "kind": "fungus",
+   "time": "14:12",
+   "photos": [
+    "s2-27",
+    "s2-28"
+   ],
+   "name": "Fibrecap carpet",
+   "latin": "Inocybe sp. (mass flush)",
+   "tr": "",
+   "flag": "poison",
+   "flagText": "Poisonous group",
+   "conf": "Medium",
+   "id": "Hundreds of small tan and ochre caps across a clearing; the close-up shows olive-yellow caps with radial fibres and a small bump.",
+   "chem": "Muscarine.",
+   "lab": "",
+   "check": "Step back: if they follow an arc, it is a ring forming."
+  },
+  {
+   "no": "S2-18",
+   "kind": "fungus",
+   "time": "14:14",
+   "photos": [
+    "s2-29",
+    "s2-34"
+   ],
+   "name": "Grey knights",
+   "latin": "Tricholoma terreum · T. atrosquamosum?",
+   "tr": "",
+   "flag": "poison",
+   "flagText": "Not food",
+   "conf": "Medium",
+   "id": "Mouse-grey caps with silky dark streaks and thick grey stems in a group under pine; a second cap is covered in dark grey felty scales.",
+   "chem": "T. terreum: large repeated meals linked to muscle breakdown. Bad twins: T. virgatum (bitter, toxic), T. pardinum (bad stomach poisoning).",
+   "lab": "",
+   "check": "Gills white or grey and notched near the stem. Smell: earthy = terreum, mealy = the others.",
+   "spore": {
+    "status": "pending"
+   }
+  },
+  {
+   "no": "S2-19",
+   "kind": "fungus",
+   "time": "14:15",
+   "photos": [
+    "s2-30"
+   ],
+   "name": "Lilac cap, violet stem",
+   "latin": "Lepista nuda? · Mycena pura?",
+   "tr": "",
+   "flag": "unknown",
+   "flagText": "Not food",
+   "conf": "Low",
+   "id": "Lilac cap fading to tan in the middle, violet stem, smooth, in pine litter.",
+   "chem": "Wood blewit is edible cooked; lilac bonnet carries muscarine.",
+   "lab": "",
+   "check": "Smell: perfume = blewit, radish = Mycena. Spore print: pale pink = blewit, rusty = violet Cortinarius.",
+   "spore": {
+    "status": "pending"
+   }
+  },
+  {
+   "no": "S2-20",
+   "kind": "fungus",
+   "time": "14:17",
+   "photos": [
+    "s2-31"
+   ],
+   "name": "Grey bell at the burrow",
+   "latin": "Panaeolus papilionaceus? · Coprinellus / Parasola?",
+   "tr": "",
+   "flag": "unknown",
+   "flagText": "Not food",
+   "conf": "Low",
+   "id": "Tiny pale-grey, finely grooved bell on a thin stem, right at the mouth of an animal burrow (dung nearby).",
+   "chem": "",
+   "lab": "",
+   "check": "Gills: mottled black = Panaeolus; grey melting to black ink = inkcap.",
+   "spore": {
+    "status": "pending"
+   }
+  },
+  {
+   "no": "S2-21",
+   "kind": "fungus",
+   "time": "14:22",
+   "photos": [
+    "s2-33"
+   ],
+   "name": "Pixie cups",
+   "latin": "Geopyxis carbonaria? · Tarzetta sp.?",
+   "tr": "",
+   "flag": "unknown",
+   "flagText": "No use",
+   "conf": "Low",
+   "id": "A colony of small tan cups with pale rims on soil, among charred black needles.",
+   "chem": "",
+   "lab": "Cup fungi shoot their spores: breathe on a ripe cup in sunlight and a faint puff may rise.",
+   "check": "Burnt ground nearby fits the pixie cup, a fire follower."
+  },
+  {
+   "no": "S2-22",
+   "kind": "fungus",
+   "time": "14:25",
+   "photos": [
+    "s2-35",
+    "s2-36"
+   ],
+   "name": "Tawny orange cap",
+   "latin": "Hebeloma? · Tricholoma ustale / T. fulvum?",
+   "tr": "",
+   "flag": "poison",
+   "flagText": "Not food",
+   "conf": "Low",
+   "id": "Smooth tawny-orange cap, yellowish stem with white mycelium at the base; crowded pale cream gills, a few fine white threads near the edge.",
+   "chem": "The colour first raised the deadly webcap (Cortinarius rubellus, kidney toxin); the pale gills make it less likely.",
+   "lab": "",
+   "check": "Spore print: white = Tricholoma, clay-brown = Hebeloma, rusty = Cortinarius.",
+   "spore": {
+    "status": "pending"
+   }
+  },
+  {
+   "no": "S2-23",
+   "kind": "other",
+   "time": "14:27",
+   "photos": [
+    "s2-37"
+   ],
+   "name": "Mushroom village",
+   "latin": "",
+   "tr": "",
+   "flag": "mild",
+   "flagText": "Site",
+   "conf": "",
+   "id": "Ground-level shot, low sun through the pines, a few caps on the needle floor. Landing-page mood for the Kanlıca site.",
+   "chem": "",
+   "lab": "",
+   "check": ""
+  },
+  {
+   "no": "S2-24",
+   "kind": "fungus",
+   "time": "14:28",
+   "photos": [
+    "s2-38"
+   ],
+   "name": "Funnel",
+   "latin": "Infundibulicybe gibba?",
+   "tr": "",
+   "flag": "unknown",
+   "flagText": "Not food",
+   "conf": "Medium",
+   "id": "Buff-tan caps, flat to slightly funnelled, wavy edges, pale gills running down slim stems.",
+   "chem": "Whitish Clitocybe cousins (C. rivulosa, C. dealbata) carry heavy muscarine.",
+   "lab": "",
+   "check": "",
+   "spore": {
+    "status": "pending"
+   }
+  },
+  {
+   "no": "S2-25",
+   "kind": "fungus",
+   "time": "14:29",
+   "photos": [
+    "s2-39"
+   ],
+   "name": "Olive-yellow caps",
+   "latin": "Tricholoma equestre? · Amanita phalloides?",
+   "tr": "",
+   "flag": "deadly",
+   "flagText": "Deadly look-alike",
+   "conf": "Low",
+   "id": "Smooth olive-yellow caps on stout pale stems under pine. Gills and base not checked.",
+   "chem": "T. equestre: rhabdomyolysis after repeated big meals. Death cap: amatoxins.",
+   "lab": "",
+   "check": "Gloves on. Gills yellow = T. equestre; white gills + ring + cup at the base = death cap.",
+   "spore": {
+    "status": "pending"
+   }
+  },
+  {
+   "no": "S2-26",
+   "kind": "fungus",
+   "time": "14:30",
+   "photos": [
+    "s2-40"
+   ],
+   "name": "Small grey-brown felty cap",
+   "latin": "Inocybe? · Cortinarius?",
+   "tr": "",
+   "flag": "unknown",
+   "flagText": "Not food",
+   "conf": "Low",
+   "id": "Small grey-brown felty cap, brownish stem, in moss and needles. Little brown mushroom: photo only.",
+   "chem": "",
+   "lab": "",
+   "check": ""
+  },
+  {
+   "no": "S2-27",
+   "kind": "plant",
+   "time": "14:35",
+   "photos": [
+    "s2-41"
+   ],
+   "name": "Woolly rosette",
+   "latin": "Stachys sp.? · Salvia sp.?",
+   "tr": "",
+   "flag": "unknown",
+   "flagText": "Unsettled",
+   "conf": "Low",
+   "id": "A winter rosette of soft, woolly, silver-green leaves with a wrinkled vein net; the plant next to the pink dapperling.",
+   "chem": "",
+   "lab": "The wool is a sun and water-loss shield.",
+   "check": "Crush a leaf: sage or camphor = Salvia (adaçayı cousin); mild and grassy = Stachys."
+  },
+  {
+   "no": "S2-28",
+   "kind": "fungus",
+   "time": "14:37",
+   "photos": [
+    "s2-42"
+   ],
+   "name": "White Amanita",
+   "latin": "Amanita sp. (white group: ovoidea / proxima / lepidella / destroying angel)",
+   "tr": "",
+   "flag": "deadly",
+   "flagText": "Deadly look-alike",
+   "conf": "Medium",
+   "id": "Pure white cap with torn veil patches on top, a fringed edge, free white gills, stout white stem. Red water droplets on the cap.",
+   "chem": "The white group runs from locally eaten (A. ovoidea) to kidney damage (A. proxima) to amatoxin (destroying angels).",
+   "lab": "",
+   "check": "White gills + white stem + any veil bits = never eat."
+  },
+  {
+   "no": "S2-29",
+   "kind": "fungus",
+   "time": "14:40",
+   "photos": [
+    "s2-44"
+   ],
+   "name": "Pointed cap from rotting bark",
+   "latin": "Mycena sp.? · Psilocybe semilanceata?",
+   "tr": "",
+   "flag": "unknown",
+   "flagText": "Not food",
+   "conf": "Low",
+   "id": "Dark brown cone with a pointed tip, flaring edge, grey-brown gills, long thin wavy pale stem. Grew from rotting bark by an old log in grass, so Mycena is more likely (~70/30).",
+   "chem": "",
+   "lab": "",
+   "check": "Peel the cap skin: a stretchy gel film = liberty cap. Spore print: white = Mycena, purple-black = Psilocybe.",
+   "spore": {
+    "status": "pending"
+   }
+  },
+  {
+   "no": "S2-30",
+   "kind": "fungus",
+   "time": "14:48",
+   "photos": [
+    "s2-45",
+    "s2-46",
+    "s2-47"
+   ],
+   "name": "Deceivers round a pine",
+   "latin": "Laccaria laccata",
+   "tr": "",
+   "flag": "mild",
+   "flagText": "Edible group",
+   "conf": "~70 %",
+   "id": "Small brick-orange, scurfy, wavy caps on tough, fibrous, twisted stems of the same colour, scattered round one pine.",
+   "chem": "",
+   "lab": "Laccaria is on the Kanlıca spread list: first spore-donor candidate.",
+   "check": "Gills thick, widely spaced, pinkish = Laccaria; crowded rusty gills or a cobweb veil = Cortinarius rubellus (deadly). Spore print white.",
+   "spore": {
+    "status": "pending"
+   }
+  },
+  {
+   "no": "S2-31",
+   "kind": "fungus",
+   "time": "14:59",
+   "photos": [
+    "s2-48",
+    "s2-49",
+    "s2-50"
+   ],
+   "name": "Smooth white pair",
+   "latin": "Agrocybe? · Hebeloma?",
+   "tr": "",
+   "flag": "unknown",
+   "flagText": "Not food",
+   "conf": "Low",
+   "id": "Two smooth pure-white caps at a grassy edge; gills crowded, pale beige going clay-brown, white stem, no ring seen. Base still in a soil clump.",
+   "chem": "",
+   "lab": "",
+   "check": "Rinse the base: a white cup = Amanita. Spore print: clay-brown = Agrocybe/Hebeloma, chocolate = Agaricus, white = alarm.",
+   "spore": {
+    "status": "pending"
+   }
+  }
+ ]
+}
