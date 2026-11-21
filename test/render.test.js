@@ -38,6 +38,20 @@ test('shelf 1: 20 cards, 26 photos, 8 pending spore slots, safety flags rendered
   assert.ok(lib.shelflineHtml(shelf).includes('Karaburun, Arnavutköy, İstanbul'));
 });
 
+test('shelf 2: 31 cards, 48 photos, 20 pending spore slots, 3 deadly flags', () => {
+  const shelf = JSON.parse(fs.readFileSync(path.join(ROOT, 'shelves/catalca-2026-11-21.json'), 'utf8'));
+  const html = lib.gridHtml(shelf, 'shelves/catalca-2026-11-21');
+  assert.equal(shelf.finds.length, 31);
+  assert.equal(lib.photoCount(shelf), 48);
+  assert.equal((html.match(/<article /g) || []).length, 31);
+  assert.equal((html.match(/<img /g) || []).length, 48);
+  assert.equal((html.match(/Spore print: pending/g) || []).length, 20);
+  assert.equal((html.match(/class="chip deadly"/g) || []).length, 3);
+  assert.ok(html.includes('src="shelves/catalca-2026-11-21/thumb/s2-01.jpg"'));
+  assert.match(lib.shelflineHtml(shelf), /<b>31<\/b> finds · <b>48<\/b> photos/);
+  assert.ok(lib.shelflineHtml(shelf).includes('Çatalca, İstanbul'));
+});
+
 test('a done spore print shows the colour disc, the note and the print photo', () => {
   const f = { no: 'KB-15', kind: 'fungus', time: '13:59', photos: ['kb-17'], name: 'Pale veil mushroom', flag: 'deadly', flagText: 'x',
     spore: { status: 'done', colour: 'brown', hex: '#6b4a2b', note: 'Hebeloma', photo: 'kb-15-spore' } };
