@@ -1,0 +1,385 @@
+{
+  "id": "catalca-2026-11-22",
+  "shelf": 3,
+  "title": "Çatalca — pine edge and hazel coppice",
+  "date": "22 Nov 2026",
+  "time": "14:09–14:58",
+  "place": "Çatalca, İstanbul",
+  "leg": "K. Pektaş",
+  "det": "Goose (photo)",
+  "description": "Field finds, photo IDs and the chemistry behind them. Shelf 3: Çatalca, pine edge and hazel coppice, 22 Nov 2026.",
+  "lede": "A late-afternoon walk that crossed from pine into an old hazel coppice. The pine side had been raked over by kanlıca pickers; the hazel side had not, and it held three death caps, a white Amanita and a crowd of clouded agarics in one small patch. Brackets were sampled for the lab; nothing was eaten. Spore prints and underside photos follow.",
+  "finds": [
+    {
+      "no": "S3-01",
+      "kind": "other",
+      "time": "14:09",
+      "photos": [
+        "s3-01"
+      ],
+      "name": "Foliose lichen",
+      "latin": "Hypogymnia sp. · Parmelia sp.",
+      "tr": "",
+      "flag": "unknown",
+      "flagText": "Not food",
+      "conf": "Low",
+      "id": "Grey-green leafy lobes on a cut pine stump.",
+      "chem": "Usnic-acid family, antimicrobial; lichens are air-quality indicators.",
+      "lab": "",
+      "check": "A lichen is a fungus living with an alga, not a mushroom."
+    },
+    {
+      "no": "S3-02",
+      "kind": "fungus",
+      "time": "14:12",
+      "photos": [
+        "s3-02",
+        "s3-03"
+      ],
+      "name": "Zoned bracket, coin-size",
+      "latin": "Stereum sp.? · Trametes sp.?",
+      "tr": "",
+      "flag": "unknown",
+      "flagText": "Not food",
+      "conf": "Low",
+      "id": "Small zoned bracket on a pine stump; pale cream underside with rusty-red spots at the base (second photo).",
+      "chem": "Trametes: PSK/PSP beta-glucans (hot-water extract). Stereum: nothing of interest.",
+      "lab": "",
+      "check": "Pin-hole pores (3–5 per mm) = Trametes. Smooth suede that bleeds red on a scratch = Stereum sanguinolentum."
+    },
+    {
+      "no": "S3-03",
+      "kind": "fungus",
+      "time": "14:16",
+      "photos": [
+        "s3-04"
+      ],
+      "name": "Clouded agaric or grey knight troop",
+      "latin": "Clitocybe nebularis? · Tricholoma sp.?",
+      "tr": "",
+      "flag": "mild",
+      "flagText": "Upsets many stomachs",
+      "conf": "~50 %",
+      "id": "A troop of grey caps in pine litter.",
+      "chem": "",
+      "lab": "",
+      "check": "Sweet-rancid smell + cream gills running down the stem = nebularis. Pink spore print = Entoloma, toxic."
+    },
+    {
+      "no": "S3-04",
+      "kind": "fungus",
+      "time": "14:19",
+      "photos": [
+        "s3-05"
+      ],
+      "name": "Bonnets",
+      "latin": "Mycena sp.",
+      "tr": "",
+      "flag": "unknown",
+      "flagText": "Not food",
+      "conf": "~70 %",
+      "id": "Small grey bell caps on thin stems in pine litter.",
+      "chem": "A few Mycena carry muscarine; only M. cyanorrhiza is reported to hold trace psilocybin.",
+      "lab": "",
+      "check": "White or grey gills + white print + radish smell = Mycena. No bluing."
+    },
+    {
+      "no": "S3-05",
+      "kind": "fungus",
+      "time": "14:23",
+      "photos": [
+        "s3-06"
+      ],
+      "name": "Funnel cap or faded blewit",
+      "latin": "Clitocybe sp. · Lepista sp.",
+      "tr": "",
+      "flag": "poison",
+      "flagText": "Small pale Clitocybe carry muscarine",
+      "conf": "Low",
+      "id": "Pale funnel-shaped cap in hazel litter.",
+      "chem": "",
+      "lab": "",
+      "check": "Lilac tint + pinkish-buff print = blewit."
+    },
+    {
+      "no": "S3-06",
+      "kind": "fungus",
+      "time": "14:31",
+      "photos": [
+        "s3-07"
+      ],
+      "name": "Death cap, young",
+      "latin": "Amanita phalloides",
+      "tr": "",
+      "flag": "deadly",
+      "flagText": "Deadly",
+      "conf": "~70 %",
+      "id": "Young olive-tinged cap in broadleaf litter; volva not dug out.",
+      "chem": "Amatoxins, RNA-polymerase II inhibitors; liver failure after a 6–24 h symptom-free gap.",
+      "lab": "",
+      "check": ""
+    },
+    {
+      "no": "S3-07",
+      "kind": "other",
+      "time": "14:32",
+      "photos": [
+        "s3-08"
+      ],
+      "name": "Hazel coppice path",
+      "latin": "",
+      "tr": "",
+      "flag": "unknown",
+      "flagText": "Scene",
+      "conf": "",
+      "id": "The hazel coppice side of the walk: old stools, cut and regrown.",
+      "chem": "",
+      "lab": "",
+      "check": ""
+    },
+    {
+      "no": "S3-08",
+      "kind": "fungus",
+      "time": "14:33",
+      "photos": [
+        "s3-09"
+      ],
+      "name": "White fans on bark",
+      "latin": "Schizophyllum commune? · Crepidotus sp.?",
+      "tr": "",
+      "flag": "unknown",
+      "flagText": "Not food",
+      "conf": "Low",
+      "id": "Small white fan-shaped caps on bark.",
+      "chem": "Schizophyllum: schizophyllan (sizofiran), a beta-glucan; the easiest wood-rotter to culture.",
+      "lab": "",
+      "check": "Gills split lengthwise = Schizophyllum."
+    },
+    {
+      "no": "S3-09",
+      "kind": "fungus",
+      "time": "14:35",
+      "photos": [
+        "s3-10"
+      ],
+      "name": "Oysterling",
+      "latin": "Crepidotus sp.",
+      "tr": "",
+      "flag": "unknown",
+      "flagText": "Not food",
+      "conf": "~60 %",
+      "id": "Small shell-shaped caps on a fallen hazel stick.",
+      "chem": "",
+      "lab": "",
+      "check": "Plain gills going brown = Crepidotus. Wrinkled veins = Plicatura."
+    },
+    {
+      "no": "S3-10",
+      "kind": "fungus",
+      "time": "14:37",
+      "photos": [
+        "s3-11",
+        "s3-12"
+      ],
+      "name": "Clouded agaric",
+      "latin": "Clitocybe nebularis",
+      "tr": "",
+      "flag": "mild",
+      "flagText": "Upsets many stomachs",
+      "conf": "~75 %",
+      "id": "Grey-brown caps, cream decurrent gills; the second photo (14:42) is the cluster at the hazel stools.",
+      "chem": "Nebularine; stomach upset in a good share of eaters.",
+      "lab": "Spore print, expect creamy white.",
+      "check": "Look for Volvariella surrecta riding an old cap.",
+      "spore": {
+        "status": "pending"
+      }
+    },
+    {
+      "no": "S3-11",
+      "kind": "fungus",
+      "time": "14:38",
+      "photos": [
+        "s3-13"
+      ],
+      "name": "Hairy curtain crust",
+      "latin": "Stereum hirsutum",
+      "tr": "",
+      "flag": "unknown",
+      "flagText": "Not food",
+      "conf": "High",
+      "id": "Hairy zoned bracket; confirmed by the orange smooth underside.",
+      "chem": "No pores, no PSK; the standard turkey-tail double.",
+      "lab": "",
+      "check": ""
+    },
+    {
+      "no": "S3-12",
+      "kind": "fungus",
+      "time": "14:39–14:40",
+      "photos": [
+        "s3-14",
+        "s3-15",
+        "s3-16"
+      ],
+      "name": "The deceiver",
+      "latin": "Laccaria laccata",
+      "tr": "",
+      "flag": "unknown",
+      "flagText": "Not food",
+      "conf": "~65 %",
+      "id": "Small tan caps with thick pinkish widely-spaced gills, hazel litter.",
+      "chem": "Mycorrhizal with hazel, so not culturable like a wood-rotter.",
+      "lab": "",
+      "check": "Thick pinkish widely-spaced gills + white print = Laccaria. Rusty gills or a cobweb veil = Cortinarius (kidney risk)."
+    },
+    {
+      "no": "S3-13",
+      "kind": "other",
+      "time": "14:41",
+      "photos": [
+        "s3-17"
+      ],
+      "name": "Hazelnut",
+      "latin": "Corylus avellana",
+      "tr": "",
+      "flag": "unknown",
+      "flagText": "Not a fungus",
+      "conf": "High",
+      "id": "A hazelnut in the soil; confirms the coppice is hazel.",
+      "chem": "",
+      "lab": "",
+      "check": ""
+    },
+    {
+      "no": "S3-14",
+      "kind": "fungus",
+      "time": "14:43",
+      "photos": [
+        "s3-18"
+      ],
+      "name": "Fibrous tan cap on buried wood",
+      "latin": "Pluteus cervinus? · Amanita sp.?",
+      "tr": "",
+      "flag": "deadly",
+      "flagText": "Treat as Amanita until the base is dug out",
+      "conf": "Low",
+      "id": "Called Pluteus in the field; may well be another Amanita.",
+      "chem": "P. salicinus is the one European Pluteus with psilocybin.",
+      "lab": "",
+      "check": "Free gills going pink + no volva = Pluteus. Any sac at the base = Amanita, stop."
+    },
+    {
+      "no": "S3-15",
+      "kind": "fungus",
+      "time": "14:45",
+      "photos": [
+        "s3-19"
+      ],
+      "name": "Death cap",
+      "latin": "Amanita phalloides",
+      "tr": "",
+      "flag": "deadly",
+      "flagText": "Deadly",
+      "conf": "High",
+      "id": "Textbook: white sac volva visible at the base.",
+      "chem": "Amatoxins, RNA-polymerase II inhibitors; liver failure after a 6–24 h symptom-free gap.",
+      "lab": "",
+      "check": ""
+    },
+    {
+      "no": "S3-16",
+      "kind": "fungus",
+      "time": "14:46",
+      "photos": [
+        "s3-20"
+      ],
+      "name": "Death cap, mature",
+      "latin": "Amanita phalloides",
+      "tr": "",
+      "flag": "deadly",
+      "flagText": "Deadly",
+      "conf": "High",
+      "id": "Flat cap, torn ring on the stem.",
+      "chem": "Amatoxins, RNA-polymerase II inhibitors; liver failure after a 6–24 h symptom-free gap.",
+      "lab": "",
+      "check": ""
+    },
+    {
+      "no": "S3-17",
+      "kind": "fungus",
+      "time": "14:47",
+      "photos": [
+        "s3-21",
+        "s3-22"
+      ],
+      "name": "Turkey tail or hairy bracket",
+      "latin": "Trametes versicolor? · T. hirsuta?",
+      "tr": "",
+      "flag": "unknown",
+      "flagText": "Not food, extract only",
+      "conf": "~55 %",
+      "id": "Rosettes on a dead hazel stem; sampled and taken home.",
+      "chem": "PSK/PSP beta-glucans (hot-water extract); T. hirsuta laccase.",
+      "lab": "Underside photo in daylight, then dry for a hot-water extract; the stem chunk is the culture source.",
+      "check": "",
+      "spore": {
+        "status": "pending"
+      }
+    },
+    {
+      "no": "S3-18",
+      "kind": "fungus",
+      "time": "14:55",
+      "photos": [
+        "s3-23"
+      ],
+      "name": "Brittlegill",
+      "latin": "Russula sardonia?",
+      "tr": "",
+      "flag": "unknown",
+      "flagText": "Not food",
+      "conf": "Low",
+      "id": "Purple-red cap in pine needles.",
+      "chem": "",
+      "lab": "",
+      "check": "Chalk-snap stem. Fiery taste (spit) = sardonia."
+    },
+    {
+      "no": "S3-19",
+      "kind": "fungus",
+      "time": "14:57",
+      "photos": [
+        "s3-24"
+      ],
+      "name": "False chanterelle",
+      "latin": "Hygrophoropsis aurantiaca?",
+      "tr": "",
+      "flag": "mild",
+      "flagText": "Upsets some stomachs",
+      "conf": "~55 %",
+      "id": "Orange cap with forking gills in pine litter.",
+      "chem": "",
+      "lab": "",
+      "check": "Forking orange gills. Orange milk going green = Lactarius deliciosus instead."
+    },
+    {
+      "no": "S3-20",
+      "kind": "fungus",
+      "time": "14:58",
+      "photos": [
+        "s3-25"
+      ],
+      "name": "Destroying angel",
+      "latin": "Amanita virosa? · white A. phalloides?",
+      "tr": "",
+      "flag": "deadly",
+      "flagText": "Deadly",
+      "conf": "~80 %",
+      "id": "Two fruitbodies at the pine edge. Pure white cap and gills, ring on the stem, bulb with a sac; the second has a shaggy stem and a torn veil at the foot.",
+      "chem": "Same amatoxins.",
+      "lab": "",
+      "check": "Dig the base: a sac (volva) plus a ring and white gills = Amanita. The edible field mushroom has pink then chocolate gills and no sac."
+    }
+  ]
+}
